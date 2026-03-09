@@ -1,3 +1,3 @@
-# relogio-digital
-Relógio digital da Larissa Kich
-<a href="index.html" > código pronto </a>
+## Ver o projeto
+
+[Abra o site]([https://iblamerig.github.io/relogio-digital/)]
